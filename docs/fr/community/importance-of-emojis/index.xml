@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>How to pay your bill on Dot</title>
-    <link>/fr/community/importance-of-emojis/</link>
+    <link>https://vapr-lab.github.io/slackbook/fr/community/importance-of-emojis/</link>
     <description>Recent content in How to pay your bill on Dot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Les documents Hugo sont sous copyright © gethugothemes 2019.</copyright>
     <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0600</lastBuildDate>
     
-	<atom:link href="/fr/community/importance-of-emojis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vapr-lab.github.io/slackbook/fr/community/importance-of-emojis/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

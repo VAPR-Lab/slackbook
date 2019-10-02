@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Importance of Using Emojis on SLACKBOOK</title>
-    <link>/community/importance-of-emojis/</link>
+    <link>https://vapr-lab.github.io/slackbook/community/importance-of-emojis/</link>
     <description>Recent content in The Importance of Using Emojis on SLACKBOOK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Slackbook is published under a CC-BY-SA-NC-4 license.</copyright>
     <lastBuildDate>Tue, 01 Oct 2019 11:02:05 +0600</lastBuildDate>
     
-	<atom:link href="/community/importance-of-emojis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vapr-lab.github.io/slackbook/community/importance-of-emojis/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
