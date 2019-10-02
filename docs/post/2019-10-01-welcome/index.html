@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+  <meta charset="utf-8">
+  <title>Hello R Markdown</title>
+
+  <meta name="generator" content="Hugo 0.55.6" />
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+  <!-- ** Plugins Needed for the Project ** -->
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+  <!-- themefy-icon -->
+  <link rel="stylesheet" href="plugins/themify-icons/themify-icons.css">
+  <!-- highlight -->
+  <link rel="stylesheet" href="plugins/highlight/hybrid.css">
+  <!-- fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
+
+  <style>
+  :root{
+    --primary-color:#02007e;
+    --secondary-color:#f9f9f9;
+    --text-color:#636363;
+    --text-color-dark:#242738;
+    --white-color:#ffffff;
+  }  
+  </style>
+
+<!-- Main Stylesheet -->
+
+<link rel="stylesheet" href="/css/style.min.css" integrity="" media="screen">
+
+<!-- jquiry -->
+<script src="plugins/jquery/jquery-1.12.4.js"></script>
+
+<!-- jquary ui -->
+<script src="plugins/jquery/jquery-ui.js"></script>
+
+<!--Favicon-->
+<link rel="icon" href="images/favicon.png" type="image/x-icon">
+
+</head>
+<body>
+  
+  <!-- navigation -->
+  <header class="shadow-bottom sticky-top bg-white">
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-light">
+  <a class="navbar-brand" href="en">Slackbook by VAPR Lab</a>
+  <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation"
+    aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse text-center" id="navigation">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a class="nav-link text-dark" href="en">Home</a>
+      </li>
+      
+      
+      <li class="nav-item">
+        <a class="nav-link text-dark" href="post">Updates</a>
+      </li>
+      
+      
+      
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+          aria-expanded="false">
+          collections
+        </a>
+        <div class="dropdown-menu" >
+          
+          <a class="dropdown-item" href="instruction">Instruction</a>
+          
+          <a class="dropdown-item" href="community">Community</a>
+          
+          <a class="dropdown-item" href="integrations">Integrations</a>
+          
+          <a class="dropdown-item" href="bots">Bots</a>
+          
+        </div>
+      </li>
+      
+      
+      
+      <li class="nav-item">
+        <a class="nav-link text-dark" href="submit">Submit (coming soon!)</a>
+      </li>
+      
+      
+      
+      <li class="nav-item">
+        <a class="nav-link text-dark" href="faq">FAQ</a>
+      </li>
+      
+      
+    </ul>
+    
+  </div>
+</nav>
+
+    </div>
+  </header>
+  <!-- /navigation -->
+  
+  <div id="content">
+
+<!-- details page -->
+<section class="single section bg-gray pb-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3">
+        <div class="mb-5 bg-white p-4 sticky-top top-100">
+          <ul class="list-styled">
+            
+            
+            <a class="d-block h4 back-btn" href="en"></a>
+            
+            
+
+
+
+
+<li data-nav-id="/community/" title="Community" class="sidelist
+  
+  
+  ">
+  <a href="/community/">
+    Community
+  </a>
+  
+  
+  <ul>
+    
+    
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+<li data-nav-id="/community/importance-of-emojis/" title="The Importance of Using Emojis" class="sidelist
+  
+  
+  ">
+  <a href="/community/importance-of-emojis/">
+    The Importance of Using Emojis
+  </a>
+  
+  
+
+
+    
+    
+  </ul>
+</li>
+
+
+
+            
+            
+
+
+
+
+<li data-nav-id="/instruction/" title="Instruction" class="sidelist
+  
+  
+  ">
+  <a href="/instruction/">
+    Instruction
+  </a>
+  
+  
+  <ul>
+    
+    
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+<li data-nav-id="/instruction/code-snippets/" title="Code Snippets in Instruction" class="sidelist
+  
+  
+  ">
+  <a href="/instruction/code-snippets/">
+    Code Snippets in Instruction
+  </a>
+  
+  
+
+
+    
+    
+  </ul>
+</li>
+
+
+
+            
+            
+
+
+
+
+<li data-nav-id="/integrations/" title="Integrations" class="sidelist
+  
+  
+  ">
+  <a href="/integrations/">
+    Integrations
+  </a>
+  
+  
+  <ul>
+    
+    
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+<li data-nav-id="/integrations/google-calendar/" title="Google Calendar" class="sidelist
+  
+  
+  ">
+  <a href="/integrations/google-calendar/">
+    Google Calendar
+  </a>
+  
+  
+
+
+    
+    
+  </ul>
+</li>
+
+
+
+            
+            
+
+
+
+
+<li data-nav-id="/post/" title="Updates to the Slackbook" class="sidelist
+  parent
+  
+  ">
+  <a href="/post/">
+    Updates to the Slackbook
+  </a>
+  
+  
+  <ul>
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+<li data-nav-id="/post/2019-10-01-welcome/" title="Hello R Markdown" class="sidelist
+  
+  active
+  ">
+  <a href="/post/2019-10-01-welcome/">
+    Hello R Markdown
+  </a>
+  
+  
+
+
+    
+    
+  </ul>
+</li>
+
+
+
+            
+            
+
+
+
+
+<li data-nav-id="/submit/" title="Submit a guide" class="sidelist
+  
+  
+  ">
+  <a href="/submit/">
+    Submit a guide
+  </a>
+  
+  
+
+
+            
+            
+
+
+
+
+<li data-nav-id="/bots/" title="Bots" class="sidelist
+  
+  
+  ">
+  <a href="/bots/">
+    Bots
+  </a>
+  
+  
+  <ul>
+    
+    
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+<li data-nav-id="/bots/github/" title="GitHub" class="sidelist
+  
+  
+  ">
+  <a href="/bots/github/">
+    GitHub
+  </a>
+  
+  
+
+
+    
+    
+  </ul>
+</li>
+
+
+
+            
+            
+
+
+
+
+<li data-nav-id="/faq/" title="Frequently Asked Questions" class="sidelist
+  
+  
+  ">
+  <a href="/faq/">
+    Frequently Asked Questions
+  </a>
+  
+  
+
+
+            
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-9">
+        <div class="p-5 bg-white">
+          <h2 class="mb-5">Hello R Markdown</h2>
+          
+          <div class="content">
+
+
+<div id="r-markdown" class="section level1">
+<h1>R Markdown</h1>
+<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
+<p>You can embed an R code chunk like this:</p>
+<pre class="r"><code>summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932</code></pre>
+</div>
+<div id="including-plots" class="section level1">
+<h1>Including Plots</h1>
+<p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
+<pre class="r"><code>par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;),
+  col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
+  init.angle = -50, border = NA
+)</code></pre>
+<div class="figure"><span id="fig:pie"></span>
+<img src="/post/2019-10-01-welcome/index_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
+<p class="caption">
+Figure 1: A fancy pie chart.
+</p>
+</div>
+</div>
+</div>
+          
+          <p class="post-meta border-bottom pb-3 mb-0 mt-3">Updated on 23 Jul 2015</p>
+          <nav class="pagination mt-3">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+
+            
+            <a class="nav nav-prev" href="/post/"><i class="ti-arrow-left mr-2"></i>Updates to the Slackbook</a>
+            
+            
+            <a class="nav nav-next" href="/submit/">Submit a guide<i class="ti-arrow-right ml-2"></i></a>
+            
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /details page -->
+
+
+
+
+
+  </div><!-- footer -->
+<footer class="section bg-gray pb-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 text-md-left text-center">
+       <p>Slackbook is published under a CC-BY-SA-NC-4 license.</p>
+      </div>
+      <div class="col-md-4 text-md-right text-center">
+        <ul class="list-inline mb-3">
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- /footer -->
+
+<!-- Bootstrap JS -->
+<script src="plugins/bootstrap/bootstrap.min.js"></script>
+<!-- match-height JS -->
+<script src="plugins/match-height/jquery.matchHeight-min.js"></script>
+<!-- highlight -->
+<script src="plugins/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+<!-- Main Script -->
+
+<script src="/js/script.min.js"></script></body>
+
+</html>

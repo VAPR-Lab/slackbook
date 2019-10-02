@@ -23,46 +23,57 @@ whiteColor = "#ffffff"
   title = "SLACKBOOK"
   dateFormat = "2 January 2006"
   home = "Home"
-  logo = "VAPR Lab"
-#  copyright = "The Hugo Documents are copyright © [gethugothemes](https://gethugothemes.com/) 2019."
+  logo = "Slackbook by VAPR Lab"
+  copyright = "Slackbook is published under a CC-BY-SA-NC-4 license."
 
     # navigation
     [Languages.en.menu]
 
       [[Languages.en.menu.main]]
-        weight = 4
+        weight = 20
+        name = "Updates"
+        url = "post"
+
+      [[Languages.en.menu.main]]
+        weight = 50
         name = "FAQ"
         url = "faq"
 
       [[Languages.en.menu.main]]
-        weight = 3
-        name = "Submit"
-        url = "#"
+        weight = 40
+        name = "Submit (coming soon!)"
+        url = "submit"
 
       # Dropdown menu
       [[Languages.en.menu.main]]
-        weight = 2
+        weight = 30
         name = "collections"
         url = "collections"
         hasChildren = true
 
           [[Languages.en.menu.main]]
           parent = "collections"
-          name = "Installation"
-          url = "installation"
-          weight = 2
+          name = "Instruction"
+          url = "instruction"
+          weight = 20
 
           [[Languages.en.menu.main]]
           parent = "collections"
-          name = "Billing and Pricing"
-          url = "billing-pricing"
-          weight = 3
+          name = "Community"
+          url = "community"
+          weight = 30
 
           [[Languages.en.menu.main]]
           parent = "collections"
-          name = "Features"
-          url = "features"
-          weight = 4
+          name = "Integrations"
+          url = "integrations"
+          weight = 40
+
+          [[Languages.en.menu.main]]
+          parent = "collections"
+          name = "Bots"
+          url = "bots"
+          weight = 50
 
 
 
@@ -81,32 +92,32 @@ whiteColor = "#ffffff"
     # call to action
     [Languages.en.params.cta]
       enable = true
-      title = "Didn't find what you're looking for? Want to submit a guide?"
-      description = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
-      btnText = "Submit a guide"
+      title = "Didn't find what you're looking for? Submit a guide!"
+      description = "Share with the world how you use Slack to fix a problem, achieve a goal, or just build something new."
+      btnText = "Coming Soon!"
       btnURL = "#"
 
     # contact
     [Languages.en.params.contact]
-      title = "Got Any Questions"
-      content = "Submit the form and confirm your email address at <a class='text-primary' href='https://formspree.io/'>Formspree</a> Then add the following lines to contact page YAML Front Matter."
+      title = "Submit a Guide!"
+      content = "Have you used Slack to fix a problem, achieve a goal, or just build something amazing? Submit a guide to the Slackbook! Simply submit a draft by completing the following form and a VAPR Lab member will contact you shortly."
 
     # footer social icon
-    [[Languages.en.socialIcon]]
-      icon = "ti-facebook"
-      linkURL = "#"
+#    [[Languages.en.socialIcon]]
+#      icon = "ti-facebook"
+#      linkURL = "#"
 
-    [[Languages.en.socialIcon]]
-      icon = "ti-twitter-alt"
-      linkURL = "#"
+#    [[Languages.en.socialIcon]]
+#      icon = "ti-twitter-alt"
+#      linkURL = "#"
 
-    [[Languages.en.socialIcon]]
-      icon = "ti-vimeo-alt"
-      linkURL = "#"
+#    [[Languages.en.socialIcon]]
+#      icon = "ti-vimeo-alt"
+#      linkURL = "#"
 
-    [[Languages.en.socialIcon]]
-      icon = "ti-instagram"
-      linkURL = "#"
+#    [[Languages.en.socialIcon]]
+#      icon = "ti-instagram"
+#      linkURL = "#"
 
   # Franch Language
   [Languages.fr]

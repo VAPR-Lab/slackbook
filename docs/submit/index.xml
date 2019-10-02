@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Submit a guide on SLACKBOOK</title>
+    <link>/submit/</link>
+    <description>Recent content in Submit a guide on SLACKBOOK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Slackbook is published under a CC-BY-SA-NC-4 license.</copyright>
+    <lastBuildDate>Tue, 01 Oct 2019 09:10:27 +0600</lastBuildDate>
+    
+	<atom:link href="/submit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
