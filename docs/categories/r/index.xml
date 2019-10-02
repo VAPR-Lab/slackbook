@@ -7,20 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Slackbook is published under a CC-BY-SA-NC-4 license.</copyright>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="https://vapr-lab.github.io/slackbook/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
+      <title>Welcome to the Slackbook!</title>
       <link>https://vapr-lab.github.io/slackbook/post/2019-10-01-welcome/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <pubDate>Tue, 01 Oct 2019 21:13:14 -0500</pubDate>
       
       <guid>https://vapr-lab.github.io/slackbook/post/2019-10-01-welcome/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <description>Welcome message coming soon!</description>
     </item>
     
   </channel>

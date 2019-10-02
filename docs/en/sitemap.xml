@@ -5,31 +5,88 @@
   <url>
     <loc>https://vapr-lab.github.io/slackbook/instruction/code-snippets/</loc>
     <lastmod>2019-10-01T11:02:05+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://vapr-lab.github.io/slackbook/fr/instruction/code-snippets/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vapr-lab.github.io/slackbook/instruction/code-snippets/"
-                />
   </url>
   
   <url>
     <loc>https://vapr-lab.github.io/slackbook/bots/github/</loc>
     <lastmod>2019-10-01T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vapr-lab.github.io/slackbook/categories/</loc>
+    <lastmod>2019-10-01T21:13:14-05:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vapr-lab.github.io/slackbook/fr/bots/github/"
+                href="https://vapr-lab.github.io/slackbook/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vapr-lab.github.io/slackbook/bots/github/"
+                href="https://vapr-lab.github.io/slackbook/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://vapr-lab.github.io/slackbook/categories/r/</loc>
+    <lastmod>2019-10-01T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vapr-lab.github.io/slackbook/tags/r-markdown/</loc>
+    <lastmod>2019-10-01T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vapr-lab.github.io/slackbook/</loc>
+    <lastmod>2019-10-01T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://vapr-lab.github.io/slackbook/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vapr-lab.github.io/slackbook/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vapr-lab.github.io/slackbook/tags/</loc>
+    <lastmod>2019-10-01T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://vapr-lab.github.io/slackbook/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vapr-lab.github.io/slackbook/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vapr-lab.github.io/slackbook/post/2019-10-01-welcome/</loc>
+    <lastmod>2019-10-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vapr-lab.github.io/slackbook/tags/plot/</loc>
+    <lastmod>2019-10-01T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vapr-lab.github.io/slackbook/tags/regression/</loc>
+    <lastmod>2019-10-01T21:13:14-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -50,16 +107,6 @@
   <url>
     <loc>https://vapr-lab.github.io/slackbook/integrations/google-calendar/</loc>
     <lastmod>2019-10-01T11:02:05+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://vapr-lab.github.io/slackbook/fr/integrations/google-calendar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vapr-lab.github.io/slackbook/integrations/google-calendar/"
-                />
   </url>
   
   <url>
@@ -95,16 +142,6 @@
   <url>
     <loc>https://vapr-lab.github.io/slackbook/community/importance-of-emojis/</loc>
     <lastmod>2019-10-01T11:02:05+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://vapr-lab.github.io/slackbook/fr/community/importance-of-emojis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vapr-lab.github.io/slackbook/community/importance-of-emojis/"
-                />
   </url>
   
   <url>
@@ -155,83 +192,6 @@
                 hreflang="en"
                 href="https://vapr-lab.github.io/slackbook/faq/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://vapr-lab.github.io/slackbook/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://vapr-lab.github.io/slackbook/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vapr-lab.github.io/slackbook/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://vapr-lab.github.io/slackbook/post/2019-10-01-welcome/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vapr-lab.github.io/slackbook/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vapr-lab.github.io/slackbook/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vapr-lab.github.io/slackbook/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://vapr-lab.github.io/slackbook/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vapr-lab.github.io/slackbook/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://vapr-lab.github.io/slackbook/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://vapr-lab.github.io/slackbook/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vapr-lab.github.io/slackbook/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://vapr-lab.github.io/slackbook/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vapr-lab.github.io/slackbook/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
