@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Slackbook is published under a CC-BY-SA-NC-4 license.</copyright>
-    <lastBuildDate>Tue, 01 Oct 2019 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 11:02:05 +0600</lastBuildDate>
     
 	<atom:link href="https://vapr-lab.github.io/slackbook/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,15 +30,6 @@
       <guid>https://vapr-lab.github.io/slackbook/bots/github/</guid>
       <description>If you deal with repositories and versioning using GitHub, the GitHub Bot brings all updates right to your Slack team!
 (More soon!)</description>
-    </item>
-    
-    <item>
-      <title>Welcome to the Slackbook!</title>
-      <link>https://vapr-lab.github.io/slackbook/post/2019-10-01-welcome/</link>
-      <pubDate>Tue, 01 Oct 2019 21:13:14 -0500</pubDate>
-      
-      <guid>https://vapr-lab.github.io/slackbook/post/2019-10-01-welcome/</guid>
-      <description>Welcome message coming soon!</description>
     </item>
     
     <item>

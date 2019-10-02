@@ -41,22 +41,6 @@
   </url>
   
   <url>
-    <loc>https://vapr-lab.github.io/slackbook/</loc>
-    <lastmod>2019-10-01T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://vapr-lab.github.io/slackbook/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vapr-lab.github.io/slackbook/"
-                />
-  </url>
-  
-  <url>
     <loc>https://vapr-lab.github.io/slackbook/tags/</loc>
     <lastmod>2019-10-01T21:13:14-05:00</lastmod>
     <priority>0</priority>
@@ -136,6 +120,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://vapr-lab.github.io/slackbook/integrations/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vapr-lab.github.io/slackbook/</loc>
+    <lastmod>2019-10-01T11:02:05+06:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://vapr-lab.github.io/slackbook/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vapr-lab.github.io/slackbook/"
                 />
   </url>
   
