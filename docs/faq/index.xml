@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frequently Asked Questions on SLACKBOOK</title>
-    <link>https://vapr-lab.github.io/slackbook/faq/</link>
+    <link>/slackbook/faq/</link>
     <description>Recent content in Frequently Asked Questions on SLACKBOOK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Slackbook is published under a CC-BY-SA-NC-4 license.</copyright>
-    <lastBuildDate>Thu, 27 Dec 2018 09:10:27 +0600</lastBuildDate>
+    <copyright>Slackbook is published under a [CC BY-SA-NC-4 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).</copyright>
+    <lastBuildDate>Tue, 01 Oct 2019 09:10:27 +0600</lastBuildDate>
     
-	<atom:link href="https://vapr-lab.github.io/slackbook/faq/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/slackbook/faq/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

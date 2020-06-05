@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>plot on SLACKBOOK</title>
-    <link>https://vapr-lab.github.io/slackbook/tags/plot/</link>
+    <link>/slackbook/tags/plot/</link>
     <description>Recent content in plot on SLACKBOOK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Slackbook is published under a CC-BY-SA-NC-4 license.</copyright>
+    <copyright>Slackbook is published under a [CC BY-SA-NC-4 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).</copyright>
     <lastBuildDate>Tue, 01 Oct 2019 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://vapr-lab.github.io/slackbook/tags/plot/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/slackbook/tags/plot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to the Slackbook!</title>
-      <link>https://vapr-lab.github.io/slackbook/post/2019-10-01-welcome/</link>
+      <link>/slackbook/post/2019-10-01-welcome/</link>
       <pubDate>Tue, 01 Oct 2019 21:13:14 -0500</pubDate>
       
-      <guid>https://vapr-lab.github.io/slackbook/post/2019-10-01-welcome/</guid>
+      <guid>/slackbook/post/2019-10-01-welcome/</guid>
       <description>Welcome message coming soon!</description>
     </item>
     

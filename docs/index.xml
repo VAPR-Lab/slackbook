@@ -1,53 +1,62 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SLACKBOOK</title>
-    <link>https://vapr-lab.github.io/slackbook/</link>
+    <link>/slackbook/</link>
     <description>Recent content on SLACKBOOK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Slackbook is published under a CC-BY-SA-NC-4 license.</copyright>
-    <lastBuildDate>Tue, 01 Oct 2019 11:02:05 +0600</lastBuildDate>
+    <copyright>Slackbook is published under a [CC BY-SA-NC-4 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).</copyright>
+    <lastBuildDate>Tue, 01 Oct 2019 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://vapr-lab.github.io/slackbook/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/slackbook/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code Snippets in Instruction</title>
-      <link>https://vapr-lab.github.io/slackbook/instruction/code-snippets/</link>
+      <link>/slackbook/instruction/code-snippets/</link>
       <pubDate>Tue, 01 Oct 2019 11:02:05 +0600</pubDate>
       
-      <guid>https://vapr-lab.github.io/slackbook/instruction/code-snippets/</guid>
+      <guid>/slackbook/instruction/code-snippets/</guid>
       <description>Especially when using Slack in code-related classes, the code snippet feature is absolutely essential.
 (More soon!)</description>
     </item>
     
     <item>
       <title>GitHub</title>
-      <link>https://vapr-lab.github.io/slackbook/bots/github/</link>
+      <link>/slackbook/bots/github/</link>
       <pubDate>Tue, 01 Oct 2019 11:02:05 +0600</pubDate>
       
-      <guid>https://vapr-lab.github.io/slackbook/bots/github/</guid>
+      <guid>/slackbook/bots/github/</guid>
       <description>If you deal with repositories and versioning using GitHub, the GitHub Bot brings all updates right to your Slack team!
 (More soon!)</description>
     </item>
     
     <item>
+      <title>Welcome to the Slackbook!</title>
+      <link>/slackbook/post/2019-10-01-welcome/</link>
+      <pubDate>Tue, 01 Oct 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/slackbook/post/2019-10-01-welcome/</guid>
+      <description>Welcome message coming soon!</description>
+    </item>
+    
+    <item>
       <title>Google Calendar</title>
-      <link>https://vapr-lab.github.io/slackbook/integrations/google-calendar/</link>
+      <link>/slackbook/integrations/google-calendar/</link>
       <pubDate>Tue, 01 Oct 2019 11:02:05 +0600</pubDate>
       
-      <guid>https://vapr-lab.github.io/slackbook/integrations/google-calendar/</guid>
+      <guid>/slackbook/integrations/google-calendar/</guid>
       <description>Keeping students (and yourself) organized is essential in online programs. Here&amp;rsquo;s a guide to best using Google Calendar with Slack.
- This guide focuses on integrating the calendar in D2L/Brightspace LMS with Slack via Google Calendar.  (Content coming soon!)</description>
+(Content coming soon!)</description>
     </item>
     
     <item>
       <title>The Importance of Using Emojis</title>
-      <link>https://vapr-lab.github.io/slackbook/community/importance-of-emojis/</link>
+      <link>/slackbook/community/importance-of-emojis/</link>
       <pubDate>Tue, 01 Oct 2019 11:02:05 +0600</pubDate>
       
-      <guid>https://vapr-lab.github.io/slackbook/community/importance-of-emojis/</guid>
+      <guid>/slackbook/community/importance-of-emojis/</guid>
       <description>Communication is hard. Communication through only the written word is even harder. One method of adding another semantic layer on top that communication is the use of emojis.
 (More soon!)</description>
     </item>

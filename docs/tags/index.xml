@@ -1,41 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SLACKBOOK</title>
-    <link>https://vapr-lab.github.io/slackbook/tags/</link>
+    <link>/slackbook/tags/</link>
     <description>Recent content in Tags on SLACKBOOK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Slackbook is published under a CC-BY-SA-NC-4 license.</copyright>
+    <copyright>Slackbook is published under a [CC BY-SA-NC-4 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).</copyright>
     <lastBuildDate>Tue, 01 Oct 2019 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://vapr-lab.github.io/slackbook/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/slackbook/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>R Markdown</title>
-      <link>https://vapr-lab.github.io/slackbook/tags/r-markdown/</link>
+      <title>plot</title>
+      <link>/slackbook/tags/plot/</link>
       <pubDate>Tue, 01 Oct 2019 21:13:14 -0500</pubDate>
       
-      <guid>https://vapr-lab.github.io/slackbook/tags/r-markdown/</guid>
+      <guid>/slackbook/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>plot</title>
-      <link>https://vapr-lab.github.io/slackbook/tags/plot/</link>
+      <title>R Markdown</title>
+      <link>/slackbook/tags/r-markdown/</link>
       <pubDate>Tue, 01 Oct 2019 21:13:14 -0500</pubDate>
       
-      <guid>https://vapr-lab.github.io/slackbook/tags/plot/</guid>
+      <guid>/slackbook/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://vapr-lab.github.io/slackbook/tags/regression/</link>
+      <link>/slackbook/tags/regression/</link>
       <pubDate>Tue, 01 Oct 2019 21:13:14 -0500</pubDate>
       
-      <guid>https://vapr-lab.github.io/slackbook/tags/regression/</guid>
+      <guid>/slackbook/tags/regression/</guid>
       <description></description>
     </item>
     

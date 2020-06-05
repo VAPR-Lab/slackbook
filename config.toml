@@ -21,10 +21,10 @@ whiteColor = "#ffffff"
   weight = 1
   languageCode = "en-us"
   title = "SLACKBOOK"
-  dateFormat = "2 January 2006"
+  dateFormat = "2006 January 2"
   home = "Home"
   logo = "Slackbook by VAPR Lab"
-  copyright = "Slackbook is published under a CC-BY-SA-NC-4 license."
+  copyright = "Slackbook is published under a [CC BY-SA-NC-4 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
 
     # navigation
     [Languages.en.menu]
@@ -41,8 +41,8 @@ whiteColor = "#ffffff"
 
       [[Languages.en.menu.main]]
         weight = 40
-        name = "Submit (coming soon!)"
-        url = "submit"
+        name = "Submit"
+        url = "https://github.com/VAPR-Lab/slackbook/labels/submission"
 
       # Dropdown menu
       [[Languages.en.menu.main]]

@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bots on SLACKBOOK</title>
-    <link>https://vapr-lab.github.io/slackbook/bots/</link>
+    <link>/slackbook/bots/</link>
     <description>Recent content in Bots on SLACKBOOK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Slackbook is published under a CC-BY-SA-NC-4 license.</copyright>
+    <copyright>Slackbook is published under a [CC BY-SA-NC-4 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).</copyright>
     <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0600</lastBuildDate>
     
-	<atom:link href="https://vapr-lab.github.io/slackbook/bots/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/slackbook/bots/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GitHub</title>
-      <link>https://vapr-lab.github.io/slackbook/bots/github/</link>
+      <link>/slackbook/bots/github/</link>
       <pubDate>Tue, 01 Oct 2019 11:02:05 +0600</pubDate>
       
-      <guid>https://vapr-lab.github.io/slackbook/bots/github/</guid>
+      <guid>/slackbook/bots/github/</guid>
       <description>If you deal with repositories and versioning using GitHub, the GitHub Bot brings all updates right to your Slack team!
 (More soon!)</description>
     </item>
