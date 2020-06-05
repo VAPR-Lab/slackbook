@@ -12,5 +12,14 @@
 	<atom:link href="/slackbook/post/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Welcome to the Slackbook!</title>
+      <link>/slackbook/post/2019-10-01-welcome/</link>
+      <pubDate>Tue, 01 Oct 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/slackbook/post/2019-10-01-welcome/</guid>
+      <description>Welcome message coming soon!</description>
+    </item>
+    
   </channel>
 </rss>

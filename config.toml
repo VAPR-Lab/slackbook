@@ -94,8 +94,8 @@ whiteColor = "#ffffff"
       enable = true
       title = "Didn't find what you're looking for? Submit a guide!"
       description = "Share with the world how you use Slack to fix a problem, achieve a goal, or just build something new."
-      btnText = "Coming Soon!"
-      btnURL = "#"
+      btnText = "Submit here"
+      btnURL = "https://github.com/VAPR-Lab/slackbook/labels/submission"
 
     # contact
     [Languages.en.params.contact]
